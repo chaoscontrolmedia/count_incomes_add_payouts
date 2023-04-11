@@ -75,7 +75,7 @@ int main(){
 
     
     else
-        cout << "\nLess than 19k/yr.This pay sucks. I'll be poor forever with this rate." <<endl;
+        cout << "\nLess than 19k/yr.This pay sucks. I'm gonna struggle for a while with this rate." <<endl;
     
 
 
